@@ -9,4 +9,4 @@ Destination selection: Choose the local directory where you want to save the clo
 Favorites management: Add, remove, or update frequently used repositories for quick access.
 This project was developed using Python and PyQt5. I'm open to suggestions for improvement.
 
-https://github.com/Filipe80oli/Git-RM/issues/1#issue-2551006611
+
