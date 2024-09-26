@@ -10,3 +10,5 @@ Favorites management: Add, remove, or update frequently used repositories for qu
 This project was developed using Python and PyQt5. I'm open to suggestions for improvement.
 
 
+![fav](https://github.com/user-attachments/assets/3ae0ed71-f904-46c1-b38b-f0a26844e1a6)
+![rep](https://github.com/user-attachments/assets/ac37f247-b52c-4c96-9116-947964c35155)
